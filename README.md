@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **HiuriMR/HiuriMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://www.linkedin.com/in/hiuri-marques-rocha-b90a59170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-## Contatos:
+## Bem vindo
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/hiuri.marquesr?igsh=dzBkeDB0cnRsaHhw&utm_source=qr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,3 +20,9 @@ https://www.linkedin.com/in/hiuri-marques-rocha-b90a59170?utm_source=share&utm_c
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/hiuri-marques-rocha-b90a59170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+## Sobre mim
+Sou formado em Sistemas de Informação pela Universidade de Mogi das Cruzes (2019) e faço um MBA de Engenharia de Software pela USP/Esalq. Atuo a mais de 5 anos como Desenvolvedor Java no desenvolvimento, evolução e manutenção. Sou curioso e gosto de aprender coisas novas sempre. Espero que gostem dos meus projeto pessoais e até logo...
+## Ferramentas e Tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>
+          
