@@ -24,15 +24,44 @@ Here are some ideas to get you started:
 ## Sobre mim
 Sou formado em Sistemas de Informação pela Universidade de Mogi das Cruzes (2019) e faço um MBA de Engenharia de Software pela USP/Esalq. Atuo há mais de 5 anos como Desenvolvedor Java no desenvolvimento, evolução e manutenção. Sou curioso e gosto de aprender coisas novas sempre. Espero que gostem dos meus projeto pessoais e até logo...
 
-##
-![image](https://github.com/user-attachments/assets/8a2ac461-ca1a-4ca1-8b6c-44424c8c0319)
-![image](https://github.com/user-attachments/assets/ee9eff58-e080-4504-8fdd-9783e7a3ee51)
+<b>Além dos estudos</b>
 
+Gosto de viajar e conhecer novos lugares, restaurantes, futebol e sempre fazer algo novo.
+
+##
+
+<!--
+<img src =![image](https://github.com/user-attachments/assets/8a2ac461-ca1a-4ca1-8b6c-44424c8c0319) width="300" height="170" >
+<img src =![image](https://github.com/user-attachments/assets/ee9eff58-e080-4504-8fdd-9783e7a3ee51) width="300" height="170" >
+width="300" height="170" 
+
+
+<div align="center>
+<table>
+<tr>
+   <td>
+    <b> 10% do tempo </b>
+   </td>
+   <td>
+    <b> 90% do tempo </b>
+   </td>
+</tr>
+<tr>
+   <td>
+    <img src=https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif > 
+   </td>
+   <td>
+    <img src =https://tenor.com/pt-BR/view/fire-beeker-beaker-muppets-burn-gif-21937471 >
+   </td>
+</tr>
+</table>
+</div>
+
+-->
 
 ## Ferramentas e Tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
-          
-## 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"  />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+ 
 <div>
 <a href="https://github.com/HiuriMR">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiuriMR&layout=compact&langs_count=7&theme=dracula"/>
