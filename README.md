@@ -22,7 +22,14 @@ Here are some ideas to get you started:
 </div>
 
 ## Sobre mim
-Sou formado em Sistemas de Informação pela Universidade de Mogi das Cruzes (2019) e faço um MBA de Engenharia de Software pela USP/Esalq. Atuo a mais de 5 anos como Desenvolvedor Java no desenvolvimento, evolução e manutenção. Sou curioso e gosto de aprender coisas novas sempre. Espero que gostem dos meus projeto pessoais e até logo...
+Sou formado em Sistemas de Informação pela Universidade de Mogi das Cruzes (2019) e faço um MBA de Engenharia de Software pela USP/Esalq. Atuo há mais de 5 anos como Desenvolvedor Java no desenvolvimento, evolução e manutenção. Sou curioso e gosto de aprender coisas novas sempre. Espero que gostem dos meus projeto pessoais e até logo...
+
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>
+## 
+<div>
+<a href="https://github.com/HiuriMR">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiuriMR&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HiuriMR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
