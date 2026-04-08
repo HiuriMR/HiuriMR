@@ -27,7 +27,7 @@ Sou formado em Sistemas de Informação pela Universidade de Mogi das Cruzes (20
 |--------------|--------------|
 | <img src="https://cdn.dicionariopopular.com/imagens/menino-dancando.gif" width="200"/> | <img src="https://github.com/user-attachments/assets/a53cdea9-2530-4356-a0d8-ab47c0c6e468" width="160"/>
 
-<b>Além dos estudos</b>
+### Além dos estudos
 
 Gosto de viajar e conhecer novos lugares, restaurantes, futebol e sempre fazer algo novo.
 
@@ -36,10 +36,10 @@ Gosto de viajar e conhecer novos lugares, restaurantes, futebol e sempre fazer a
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"  />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
- 
+ <!--
 <div>
 <a href="https://github.com/HiuriMR">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiuriMR&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HiuriMR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-          
+       -->   
