@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Bem vindo
+
+<img width="736" height="524" alt="Copilot_20260409_171857" src="https://github.com/HiuriMR/portifolio-imagens/blob/main/bemVindo.png"/>
+
 <div>
 <a href="https://instagram.com/hiuri.marquesr?igsh=dzBkeDB0cnRsaHhw&utm_source=qr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/hiuri-marques-rocha-b90a59170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
