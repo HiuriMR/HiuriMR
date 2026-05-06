@@ -1,20 +1,7 @@
-<!--
-**HiuriMR/HiuriMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div >
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HiuriMR.HiuriMR&"  />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<img width="736" height="524" alt="Copilot_20260409_171857" src="https://github.com/HiuriMR/portifolio-imagens/blob/main/bemVindo.png"/>
--->
 ## 📫 Onde me encontrar
 <div>
 <a href="https://instagram.com/hiuri.marquesr?igsh=dzBkeDB0cnRsaHhw&utm_source=qr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,13 +18,29 @@ Oi, eu me chamo Hiuri! Sou desenvolvedor backend apaixonado por tecnologia, sou 
 - 📚 aprendizado contínuo e boas práticas de código.  
 - 📚 Motivado a compartilhar aprendizado e evoluir junto com a comunidade  
 
-<!--
-| Quando o código da certo | Quando o código da errado |
-|--------------|--------------|
-| <img src="https://cdn.dicionariopopular.com/imagens/menino-dancando.gif" width="200"/> | <img src="https://github.com/user-attachments/assets/a53cdea9-2530-4356-a0d8-ab47c0c6e468" width="160"/>
--->
 ## 🚀 Tecnologias e habilidades
 
+![Java](https://img.shields.io/badge/Java-8--17-orange?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-green?logo=springboot)
+![Docker](https://img.shields.io/badge/Docker-DevOps-blue?logo=docker)
+![Kafka](https://img.shields.io/badge/Kafka-Mensageria-black?logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Mensageria-orange?logo=rabbitmq)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?logo=mysql)
+![NoSQL](https://img.shields.io/badge/NoSQL-Database-yellow?logo=mongodb)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blueviolet?logo=githubactions)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-IA%20Assistente-0A66C2?logo=github)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiuriMR/HiuriMR/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiuriMR/HiuriMR/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HiuriMR/HiuriMR/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<!--
 **Backend**
 - Java (8–17), Spring Boot
 - Lambda em Java
@@ -64,7 +67,7 @@ Oi, eu me chamo Hiuri! Sou desenvolvedor backend apaixonado por tecnologia, sou 
 - GitHub Copilot & IA aplicada
 
 
-<!--
+
 - [GitHub](https://github.com/HiuriMR)
 - [LinkedIn](https://www.linkedin.com/in/hiuri-rocha-developer) *(substitua pelo seu link real)*
 
